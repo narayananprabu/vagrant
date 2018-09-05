@@ -40,7 +40,3 @@ To create a new VM instance
 * Postman for REST Testing
 * STS - Eclipse
 
-## Project
-
-* Go to terminal
-* Follow instructions from https://gitlab.com/ps-thinknsolutions/insurance-services
